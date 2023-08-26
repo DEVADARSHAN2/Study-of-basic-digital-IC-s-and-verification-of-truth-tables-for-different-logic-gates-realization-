@@ -80,14 +80,14 @@ endmodule
 ### Logic symbol 
 
 ##### RTL realization
-![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/b7d3d816-3e58-44f5-afd2-5e4fce8b4a10)
+![Screenshot 2023-08-26 084204](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/d53e5e55-1cad-419e-baa1-c4c51e2e34b8)
 
 ### Output:
 #### Truth table:
-![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/d28c1664-88d7-452f-a236-537b6df82a77)
+![Screenshot 2023-08-26 084310](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/0edeb9cf-48d3-42cc-a0c1-00ad1fc87c33)
 
 #### RTL
-![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/1b2cc1d0-cb36-49d6-892b-24e153c8fa65)
+![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/32a67e3d-0b94-43a2-b06e-12fc8335242b)
 
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
