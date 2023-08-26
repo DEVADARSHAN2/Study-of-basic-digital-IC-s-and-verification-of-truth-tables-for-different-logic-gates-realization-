@@ -1,4 +1,4 @@
-![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/ff692a29-453a-4fa2-8dc4-7c86c5a8bf1c)# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
