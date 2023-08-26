@@ -1,12 +1,12 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/8afd29ae-6e4c-4c63-a032-f51fe3c955a3)# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+ ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 Theory
-Introduction
+## Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -51,22 +51,42 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-Procedure
+## Procedure
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
 
-Result:
+## Program:
+```
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+Developed by: DEVA DARSHAN A S
+RegisterNumber:  212222110007
+
+
+module Verilog1(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
+input a,b;
+output yand,yor,ynot,yxor,ynand,ynor,yxnor;
+and(yand,a,b);
+or(yor,a,b);
+not(ynot,a);
+xor(yxor,a,b);
+nand(ynand,a,b);
+nor(ynor,a,b);
+xnor(yxnor,a,b);
+endmodule
+```
+### Logic symbol 
+
+##### RTL realization
+![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/88ff8f00-cabe-4c01-a757-736be8815550)
+
+### Output:
+#### Truth table:
+![Screenshot 2023-08-26 082913](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/1091f445-1769-4919-8a61-e03539e417ad)
+#### RTL
+![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/b4f2a293-9e32-4ce3-bc6c-a74b16e89f74)
+
+### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
