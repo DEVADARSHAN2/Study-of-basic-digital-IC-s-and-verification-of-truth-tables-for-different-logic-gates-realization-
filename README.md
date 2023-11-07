@@ -87,7 +87,7 @@ endmodule
 ![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/c1abe008-861f-401a-83c1-f71bbf99a12d)
 
 
-#### RTL
+#### Waveform:
 ![image](https://github.com/DEVADARSHAN2/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119432150/67c71bd3-9b64-49af-84bc-afa934d58800)
 
 ### Result:
